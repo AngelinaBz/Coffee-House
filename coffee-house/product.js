@@ -18,7 +18,7 @@ function createCatalog(category) {
         newCard.classList.add('menu_card');
         newCard.innerHTML = `
                 <div class="menu_pic">
-                    <img src="${value.images}"/>
+                    <img src="assets/${value.images}"/>
                 </div>
                 <div class="menu_description">
                     <div class="description_block">
@@ -75,7 +75,7 @@ async function openModal(name, images, description, price, sizes, additives) {
     modalElem.innerHTML = `
         <div class="modal_main">
             <div class="modal_pic">
-                <img src="${images}"/>
+                <img src="assets/${images}"/>
             </div>
             <div class="modal_text">
                 <div class="modal_name">
