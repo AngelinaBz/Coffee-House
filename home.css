@@ -281,7 +281,7 @@ li {
     display: inline-block;
 }
 .enjoy_btn::after {
-    content: url("coffee-cup.svg");
+    content: url("assets/coffee-cup.svg");
 	position: absolute;
 	margin: auto;
     width: 20px;
