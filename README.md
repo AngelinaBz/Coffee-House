@@ -3,7 +3,7 @@
 **Coffee-House** is a project that has created a website with two pages. The website has been made adaptive and interactive.
 
 ## Deployment
-- [Coffee-House](https://angelinabz.github.io/Coffee-House)
+- [Coffee-House](https://angelinabz.github.io/Coffee-House/home.html)
 
 ## Tech Stack
 - HTML, CSS, JavaScript
